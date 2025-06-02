@@ -17,7 +17,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 
 	@Test
-	public void contextLoads() {
+	public contextLoads() {
 		logger.info("Test case executing...");
 		logger.info("Test case executing second log statement...");
 		assertEquals(true, true);
